@@ -1,0 +1,86 @@
+[
+  {
+    "id": "anjali-ishaan",
+    "title": "Anjali & Ishaan",
+    "category": "destination",
+    "location": "Goa, India",
+    "date": "March 2024",
+    "thumbnail": "/assets/m1.jpg",
+    "heroImage": "/assets/hero1.jpg",
+    "description": "A magical destination wedding celebration on the pristine beaches of Goa, where love met the ocean waves.",
+    "images": [
+      "/assets/m1.jpg",
+      "/assets/m2.jpg",
+      "/assets/m3.jpg",
+      "/assets/m4.jpg",
+      "/assets/m5.jpg",
+      "/assets/m6.jpg",
+      "/assets/m7.jpg",
+      "/assets/m8.jpg"
+    ],
+    "highlights": ["Beach Ceremony", "Sunset Reception", "Cultural Fusion", "Ocean Views"]
+  },
+  {
+    "id": "priya-rahul",
+    "title": "Priya & Rahul",
+    "category": "traditional",
+    "location": "Jaipur, India",
+    "date": "February 2024",
+    "thumbnail": "/assets/m9.jpg",
+    "heroImage": "/assets/hero2.jpg",
+    "description": "A royal traditional wedding in the Pink City, celebrating love with centuries-old customs and modern elegance.",
+    "images": [
+      "/assets/m9.jpg",
+      "/assets/m10.jpg",
+      "/assets/m11.jpg",
+      "/assets/m12.jpg",
+      "/assets/m13.jpg",
+      "/assets/m14.jpg",
+      "/assets/m15.jpg",
+      "/assets/m16.jpg"
+    ],
+    "highlights": ["Royal Palace", "Traditional Ceremonies", "Cultural Heritage", "Luxury Celebration"]
+  },
+  {
+    "id": "meera-aarav",
+    "title": "Meera & Aarav",
+    "category": "beach",
+    "location": "Kerala, India",
+    "date": "January 2024",
+    "thumbnail": "/assets/m17.jpg",
+    "heroImage": "/assets/hero3.jpg",
+    "description": "A serene beach wedding in God's Own Country, where simplicity met sophistication under the palm trees.",
+    "images": [
+      "/assets/m17.jpg",
+      "/assets/m18.jpg",
+      "/assets/m19.jpg",
+      "/assets/m20.jpg",
+      "/assets/m21.jpg",
+      "/assets/m22.jpg",
+      "/assets/m23.jpg",
+      "/assets/m24.jpg"
+    ],
+    "highlights": ["Beachfront Venue", "Natural Beauty", "Intimate Gathering", "Ocean Breeze"]
+  },
+  {
+    "id": "isha-kabir",
+    "title": "Isha & Kabir",
+    "category": "urban",
+    "location": "Mumbai, India",
+    "date": "December 2023",
+    "thumbnail": "/assets/hero4.jpg",
+    "heroImage": "/assets/hero4.jpg",
+    "description": "A contemporary urban wedding in the city of dreams, blending modern aesthetics with timeless romance.",
+    "images": [
+      "/assets/hero4.jpg",
+      "/assets/hero5.jpg",
+      "/assets/hero6.jpg",
+      "/assets/hero7.jpg",
+      "/assets/hero8.jpg",
+      "/assets/hero9.jpg",
+      "/assets/hero10.jpg",
+      "/assets/hero11.jpg"
+    ],
+    "highlights": ["City Views", "Modern Design", "Urban Elegance", "Contemporary Style"]
+  }
+]
